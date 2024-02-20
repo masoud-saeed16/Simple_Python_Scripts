@@ -3,7 +3,7 @@ import requests
 import sys
 
 try:
-    
+    #asking user for inputs
     target_url = input('[*] Enter Target URL: ')
     file_name = input('[*] Enter Name Of The File Containing Directories: ')
 
