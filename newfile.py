@@ -13,6 +13,7 @@ print(squares)
 multiples_of_three = [i * 3 for i in range(10) if i % 3 != 0]
 print(multiples_of_three)
 
+
 '''
 import requests
 
